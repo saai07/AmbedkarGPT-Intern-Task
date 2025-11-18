@@ -48,6 +48,12 @@ ollama serve
 
 ## Usage
 
+```
+# Load your text file by providing the file path
+loader = TextLoader("path/to/your/file.txt")
+
+```
+
 ### 1. Ingest documents
 ```
 ingest()
