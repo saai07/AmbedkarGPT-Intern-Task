@@ -74,7 +74,7 @@ langchain-ollama
 langchain-classic
 ```
 
-### !Caution: If you encounter a login error during ingest()
+### ! Caution: If you encounter a login error during ingest()
 ```
 from huggingface_hub import login
 
