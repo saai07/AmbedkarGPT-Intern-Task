@@ -1,5 +1,9 @@
-# -AmbedkarGPT-Intern-Task
-# Retrieval-Augmented Generation (RAG) Pipeline using LangChain + Ollama
+# AmbedkarGPT-Intern-Task
+
+## Retrieval-Augmented Generation (RAG) Pipeline using LangChain + Ollama
+
+![Demo Screenshot](example.png)
+
 
 This project implements a lightweight, local-first RAG pipeline using LangChain, Ollama, and Chroma for vector search.
 It allows you to ingest text files, build embeddings, store them in a vector database, and ask questions with accurate,
